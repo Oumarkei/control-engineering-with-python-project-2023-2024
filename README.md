@@ -14,7 +14,7 @@ Your team: 11❔
   
   - Student 3: ❔ Saad EDDARKAOUI `worf123`
 
-  - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: ❔ Ziad AIT BELAISSAOUI `Ziad4646`
 
 ## Getting Started
 
