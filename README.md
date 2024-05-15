@@ -10,9 +10,9 @@ Your team: 11❔
 
   - Student 1: ❔ Oumar KEITA 'Oumarkei'
 
-  - Student 2: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 2: ❔ Hayat AGNAOU `Hayat1920`
   
-  - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: ❔ Saad EDDARKAOUI `worf123`
 
   - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
