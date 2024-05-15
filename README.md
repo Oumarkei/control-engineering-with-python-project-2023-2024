@@ -8,7 +8,7 @@ Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bI
 
 Your team: 11❔
 
-  - Student 1: ❔ Oumar KEITA 'Oumarkei'
+  - Student 1: ❔ Oumar KEITA 'OumarKei'
 
   - Student 2: ❔ Hayat AGNAOU `Hayat1920`
   
